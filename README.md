@@ -28,15 +28,13 @@ It showcases a fully functional **AI-powered appointment-booking assistant** for
 
 > 💡 You don’t need to run these for submission — they’re just instructions for anyone reviewing or testing the app.
 
-### 1️⃣ Clone this repository
 ```bash
+# 1️⃣ Clone this repository
 git clone https://github.com/<your-username>/Task5-Booking-Agent.git
 cd Task5-Booking-Agent
 
-### 2️⃣ Install dependencies
-```bash
+# 2️⃣ Install dependencies
 pip install -r requirements.txt
 
-### 3️⃣ Run the Streamlit app
-```bash
+# 3️⃣ Run the Streamlit app
 streamlit run bot6.py
